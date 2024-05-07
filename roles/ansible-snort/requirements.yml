@@ -1,0 +1,3 @@
+---
+- src: https://github.com/RogersCompany/ansible-mysql.git
+- src: https://github.com/RogersCompany/ansible-snort.git

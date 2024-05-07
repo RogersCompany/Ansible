@@ -1,0 +1,7 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-elasticsearch.git
+- src: https://github.com/RogersCompany/ansible-elk-kibana.git
+- src: https://github.com/RogersCompany/ansible-logstash.git
+- src: https://github.com/RogersCompany/ansible-es-topbeat.git
+- src: https://github.com/RogersCompany/ansible-mysql.git

@@ -1,0 +1,10 @@
+---
+- src: https://github.com/RogersCompany/ansible-base.git
+- src: https://github.com/RogersCompany/ansible-bashrc.git
+- src: https://github.com/RogersCompany/ansible-bootstrap.git
+- src: https://github.com/RogersCompany/ansible-etc-hosts.git
+- src: https://github.com/RogersCompany/ansible-hashicorp-toolbox.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-rsyslog.git
+- src: https://github.com/RogersCompany/ansible-timezone.git
+- src: https://github.com/RogersCompany/ansible-users.git

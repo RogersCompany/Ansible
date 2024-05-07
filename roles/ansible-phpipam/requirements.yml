@@ -1,0 +1,4 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-mariadb-mysql.git
+- src: https://github.com/RogersCompany/ansible-phpipam.git

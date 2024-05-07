@@ -1,0 +1,6 @@
+---
+- src: https://github.com/RogersCompany/ansible-chrony
+- src: https://github.com/RogersCompany/ansible-config-interfaces
+- src: https://github.com/RogersCompany/ansible-etc-hosts
+- src: https://github.com/RogersCompany/ansible-openstack-base
+- src: https://github.com/RogersCompany/ansible-openstack-openrc

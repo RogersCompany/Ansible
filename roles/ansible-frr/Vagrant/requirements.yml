@@ -1,0 +1,6 @@
+---
+- src: https://github.com/RogersCompany/ansible-chronograf.git
+- src: https://github.com/RogersCompany/ansible-docker.git
+- src: https://github.com/RogersCompany/ansible-grafana.git
+- src: https://github.com/RogersCompany/ansible-influxdb.git
+- src: https://github.com/RogersCompany/ansible-telegraf.git

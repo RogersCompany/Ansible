@@ -1,0 +1,26 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-base.git
+- src: https://github.com/RogersCompany/ansible-bootstrap.git
+- src: https://github.com/RogersCompany/ansible-change-hostname.git
+- src: https://github.com/RogersCompany/ansible-config-interfaces.git
+- src: https://github.com/RogersCompany/ansible-elasticsearch.git
+- src: https://github.com/RogersCompany/ansible-haproxy.git
+- src: https://github.com/RogersCompany/ansible-logstash.git
+- src: https://github.com/RogersCompany/ansible-manage-lvm.git
+- src: https://github.com/RogersCompany/ansible-manage-ssh-keys.git
+- src: https://github.com/RogersCompany/ansible-mariadb-galera-cluster.git
+- src: https://github.com/RogersCompany/ansible-mariadb-mysql.git
+- src: https://github.com/RogersCompany/ansible-memcached.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-openstack.git
+- src: https://github.com/RogersCompany/ansible-pacemaker.git
+- src: https://github.com/RogersCompany/ansible-phpipam.git
+- src: https://github.com/RogersCompany/ansible-postfix.git
+- src: https://github.com/RogersCompany/ansible-powerdns.git
+- src: https://github.com/RogersCompany/ansible-rabbitmq.git
+- src: https://github.com/RogersCompany/ansible-redis.git
+- src: https://github.com/RogersCompany/ansible-rsyslog.git
+- src: https://github.com/RogersCompany/ansible-snmpd.git
+- src: https://github.com/RogersCompany/ansible-timezone.git
+- src: https://github.com/RogersCompany/ansible-users.git

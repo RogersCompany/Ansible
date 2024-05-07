@@ -1,0 +1,5 @@
+---
+- src: https://github.com/RogersCompany/ansible-consul.git
+- src: https://github.com/RogersCompany/ansible-nginx.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-redis.git

@@ -1,0 +1,5 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-apt-mirror.git
+- src: https://github.com/RogersCompany/ansible-mariadb-mysql.git
+- src: https://github.com/RogersCompany/ansible-owncloud.git

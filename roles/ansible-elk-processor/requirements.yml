@@ -1,0 +1,9 @@
+---
+- src: https://github.com/RogersCompany/ansible-dnsmasq.git
+- src: https://github.com/RogersCompany/ansible-elk-processor.git
+- src: https://github.com/RogersCompany/ansible-etc-hosts.git
+- src: https://github.com/RogersCompany/ansible-logstash.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-rsyslog.git
+- src: https://github.com/RogersCompany/ansible-snmpd.git
+- src: https://github.com/RogersCompany/ansible-timezone.git

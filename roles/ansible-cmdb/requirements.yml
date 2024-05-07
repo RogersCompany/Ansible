@@ -1,0 +1,5 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-cmdb.git
+- src: https://github.com/RogersCompany/ansible-postfix.git
+- src: https://github.com/RogersCompany/ansible-timezone.git

@@ -1,0 +1,6 @@
+---
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-opennms.git
+- src: https://github.com/RogersCompany/ansible-oracle-java8.git
+- src: https://github.com/RogersCompany/ansible-postfix.git
+- src: https://github.com/RogersCompany/ansible-postgresql.git

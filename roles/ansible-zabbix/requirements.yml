@@ -1,0 +1,5 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-mysql.git
+- src: https://github.com/RogersCompany/ansible-php.git
+- src: https://github.com/RogersCompany/ansible-zabbix.git

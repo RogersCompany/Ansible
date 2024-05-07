@@ -1,0 +1,3 @@
+---
+- src: https://github.com/RogersCompany/ansible-mariadb-mysql.git
+- src: https://github.com/RogersCompany/ansible-rundeck.git

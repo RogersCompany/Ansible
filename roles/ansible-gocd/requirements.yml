@@ -1,0 +1,4 @@
+---
+- src: https://github.com/RogersCompany/ansible-gocd.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-redis.git

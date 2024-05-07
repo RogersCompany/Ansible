@@ -1,0 +1,5 @@
+---
+- src: https://github.com/RogersCompany/ansible-apt-cacher-ng.git
+- src: https://github.com/RogersCompany/ansible-dnsmasq.git
+- src: https://github.com/RogersCompany/ansible-isc-dhcp.git
+- src: https://github.com/RogersCompany/ansible-tftpserver.git

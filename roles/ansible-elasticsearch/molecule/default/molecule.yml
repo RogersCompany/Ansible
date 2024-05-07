@@ -1,0 +1,107 @@
+---
+dependency:
+  name: galaxy
+driver:
+  name: vagrant
+  provider:
+    name: virtualbox
+lint:
+  name: yamllint
+platforms:
+  # # Fedora
+  # - name: fedora-26
+  #   box: RogersCompany/fedora-26
+  #   memory: 512
+  #   cpus: 1
+  # - name: fedora-27
+  #   box: RogersCompany/fedora-27
+  #   memory: 512
+  #   cpus: 1
+  # - name: fedora-28
+  #   box: RogersCompany/fedora-28
+  #   memory: 512
+  #   cpus: 1
+  # # Ubuntu
+  # - name: bionic64
+  #   box: RogersCompany/bionic64
+  #   memory: 512
+  #   cpus: 1
+  # - name: trusty64
+  #   box: RogersCompany/trusty64
+  #   memory: 512
+  #   cpus: 1
+  # - name: xenial64
+  #   box: RogersCompany/xenial64
+  #   memory: 512
+  #   cpus: 1
+  # # CentOS
+  # - name: centos-6
+  #   box: RogersCompany/centos-6
+  #   memory: 512
+  #   cpus: 1
+  # - name: centos-7
+  #   box: RogersCompany/centos-7
+  #   memory: 512
+  #   cpus: 1
+  # # Debian
+  # - name: jessie64
+  #   box: RogersCompany/jessie64
+  #   memory: 512
+  #   cpus: 1
+  # - name: stretch64
+  #   box: RogersCompany/stretch64
+  #   memory: 512
+  #   cpus: 1
+  # - name: wheezy64
+  #   box: RogersCompany/wheezy64
+  #   memory: 512
+  #   cpus: 1
+  - name: node0
+    box: RogersCompany/bionic64
+    memory: 2048
+    cpus: 1
+    groups:
+      - elasticsearch
+    interfaces:
+      - auto_config: true
+        network_name: private_network
+        type: static
+        ip: 192.168.250.10
+    provision: true
+  - name: node1
+    box: RogersCompany/bionic64
+    memory: 2048
+    cpus: 1
+    groups:
+      - elasticsearch
+    interfaces:
+      - auto_config: true
+        network_name: private_network
+        type: static
+        ip: 192.168.250.11
+    provision: true
+  - name: node2
+    box: RogersCompany/bionic64
+    memory: 2048
+    cpus: 1
+    groups:
+      - elasticsearch
+    interfaces:
+      - auto_config: true
+        network_name: private_network
+        type: static
+        ip: 192.168.250.12
+    provision: true
+
+provisioner:
+  name: ansible
+  # env:
+  #   ANSIBLE_ROLES_PATH: /Users/larry/Git_Projects/Personal/GitHub/RogersCompany
+  lint:
+    name: ansible-lint
+scenario:
+  name: default
+verifier:
+  name: testinfra
+  lint:
+    name: flake8

@@ -1,0 +1,4 @@
+---
+- src: https://github.com/RogersCompany/ansible-haproxy.git
+- src: https://github.com/RogersCompany/ansible-keepalived.git
+- src: https://github.com/RogersCompany/ansible-squid.git

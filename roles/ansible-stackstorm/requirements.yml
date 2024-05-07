@@ -1,0 +1,9 @@
+---
+- src: https://github.com/RogersCompany/ansible-etc-hosts.git
+- src: https://github.com/RogersCompany/ansible-manage-ssh-keys.git
+- src: https://github.com/RogersCompany/ansible-mongodb.git
+- src: https://github.com/RogersCompany/ansible-nginx.git
+- src: https://github.com/RogersCompany/ansible-nodejs.git
+- src: https://github.com/RogersCompany/ansible-postgresql.git
+- src: https://github.com/RogersCompany/ansible-rabbitmq.git
+- src: https://github.com/RogersCompany/ansible-users.git

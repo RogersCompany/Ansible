@@ -1,0 +1,5 @@
+---
+- src: https://www.github.com/RogersCompany/ansible-apache2
+- src: https://www.github.com/RogersCompany/ansible-etc-hosts
+- src: https://www.github.com/RogersCompany/ansible-mysql
+- src: https://www.github.com/RogersCompany/ansible-php

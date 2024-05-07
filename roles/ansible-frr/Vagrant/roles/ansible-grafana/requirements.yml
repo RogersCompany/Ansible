@@ -1,0 +1,7 @@
+---
+- src: https://github.com/RogersCompany/ansible-collectd.git
+- src: https://github.com/RogersCompany/ansible-grafana.git
+- src: https://github.com/RogersCompany/ansible-graphite.git
+- src: https://github.com/RogersCompany/ansible-influxdb.git
+- src: https://github.com/RogersCompany/ansible-snmpd.git
+- src: https://github.com/RogersCompany/ansible-timezone.git

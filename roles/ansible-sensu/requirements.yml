@@ -1,0 +1,4 @@
+---
+- src: https://github.com/RogersCompany/ansible-rabbitmq.git
+- src: https://github.com/RogersCompany/ansible-redis.git
+- src: https://github.com/RogersCompany/ansible-sensu.git

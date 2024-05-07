@@ -1,0 +1,20 @@
+---
+- src: https://github.com/RogersCompany/ansible-dnsmasq.git
+- src: https://github.com/RogersCompany/ansible-elasticsearch.git
+- src: https://github.com/RogersCompany/ansible-elk-broker.git
+- src: https://github.com/RogersCompany/ansible-elk-es.git
+- src: https://github.com/RogersCompany/ansible-elk-haproxy.git
+- src: https://github.com/RogersCompany/ansible-elk-kibana.git
+- src: https://github.com/RogersCompany/ansible-elk-pre-processor.git
+- src: https://github.com/RogersCompany/ansible-elk-processor.git
+- src: https://github.com/RogersCompany/ansible-haproxy.git
+- src: https://github.com/RogersCompany/ansible-keepalived.git
+- src: https://github.com/RogersCompany/ansible-logstash.git
+- src: https://github.com/RogersCompany/ansible-network-tweaks.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-postfix.git
+- src: https://github.com/RogersCompany/ansible-rabbitmq.git
+- src: https://github.com/RogersCompany/ansible-redis.git
+- src: https://github.com/RogersCompany/ansible-rsyslog.git
+- src: https://github.com/RogersCompany/ansible-snmpd.git
+- src: https://github.com/RogersCompany/ansible-timezone.git

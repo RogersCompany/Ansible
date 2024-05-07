@@ -1,0 +1,6 @@
+---
+- src: https://www.github.com/RogersCompany/ansible-change-hostname.git
+- src: https://www.github.com/RogersCompany/ansible-docker.git
+- src: https://www.github.com/RogersCompany/ansible-etc-hosts.git
+- src: https://www.github.com/RogersCompany/ansible-ntp.git
+- src: https://www.github.com/RogersCompany/ansible-timezone.git

@@ -1,0 +1,9 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-cacti.git
+- src: https://github.com/RogersCompany/ansible-lighttpd.git
+- src: https://github.com/RogersCompany/ansible-mysql.git
+- src: https://github.com/RogersCompany/ansible-nginx.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-snmpd.git
+- src: https://github.com/RogersCompany/ansible-timezone.git

@@ -1,0 +1,21 @@
+---
+- src: https://www.github.com/RogersCompany/ansible-chrony
+- src: https://www.github.com/RogersCompany/ansible-config-interfaces
+- src: https://www.github.com/RogersCompany/ansible-etc-hosts
+- src: https://www.github.com/RogersCompany/ansible-haproxy
+- src: https://www.github.com/RogersCompany/ansible-mariadb-galera-cluster
+- src: https://www.github.com/RogersCompany/ansible-memcached
+- src: https://www.github.com/RogersCompany/ansible-motd
+- src: https://www.github.com/RogersCompany/ansible-mysql
+- src: https://www.github.com/RogersCompany/ansible-openstack-base
+- src: https://www.github.com/RogersCompany/ansible-openstack-compute-service-compute
+- src: https://www.github.com/RogersCompany/ansible-openstack-compute-service-controller
+- src: https://www.github.com/RogersCompany/ansible-openstack-dashboard
+- src: https://www.github.com/RogersCompany/ansible-openstack-identity-service
+- src: https://www.github.com/RogersCompany/ansible-openstack-image-service
+- src: https://www.github.com/RogersCompany/ansible-openstack-networking-service-compute
+- src: https://www.github.com/RogersCompany/ansible-openstack-networking-service-controller
+- src: https://www.github.com/RogersCompany/ansible-openstack-openrc
+- src: https://www.github.com/RogersCompany/ansible-pacemaker
+- src: https://www.github.com/RogersCompany/ansible-rabbitmq
+- src: https://www.github.com/RogersCompany/ansible-timezone

@@ -1,0 +1,23 @@
+---
+- src: https://github.com/RogersCompany/ansible-apache2.git
+- src: https://github.com/RogersCompany/ansible-change-hostname.git
+- src: https://github.com/RogersCompany/ansible-config-interfaces.git
+- src: https://github.com/RogersCompany/ansible-docker-swarm.git
+- src: https://github.com/RogersCompany/ansible-docker.git
+- src: https://github.com/RogersCompany/ansible-etc-hosts.git
+- src: https://github.com/RogersCompany/ansible-haproxy.git
+- src: https://github.com/RogersCompany/ansible-isc-dhcp.git
+- src: https://github.com/RogersCompany/ansible-k8s.git
+- src: https://github.com/RogersCompany/ansible-keepalived.git
+- src: https://github.com/RogersCompany/ansible-mariadb-galera-cluster.git
+- src: https://github.com/RogersCompany/ansible-ntp.git
+- src: https://github.com/RogersCompany/ansible-phpipam.git
+- src: https://github.com/RogersCompany/ansible-powerdns-authoritative.git
+- src: https://github.com/RogersCompany/ansible-powerdns-dnsdist.git
+- src: https://github.com/RogersCompany/ansible-powerdns-recursor.git
+- src: https://github.com/RogersCompany/ansible-rsyslog.git
+- src: https://github.com/RogersCompany/ansible-samba.git
+- src: https://github.com/RogersCompany/ansible-sshd.git
+- src: https://github.com/RogersCompany/ansible-timezone.git
+- src: https://github.com/RogersCompany/ansible-windows-powercli.git
+- src: https://github.com/RogersCompany/ansible-windows-remote-desktop.git
